@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Meu nome é João Victor, atualmente estou cursando Bacharelado em ciência da computação no IF Goiano - campus Iporá.
+
 ![snake gif](https://github.com/Toddynn1762/Toddynn1762/blob/output/github-contribution-grid-snake.gif)
 
 
