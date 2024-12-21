@@ -1,21 +1,17 @@
-## Hi there 👋
+## Olá 👋
 
-Meu nome é João Victor, atualmente estou cursando Bacharelado em ciência da computação no Instituto Federal Goiano - Campus Iporá.
+Meu nome é João Victor, atualmente estou cursando Bacharelado em Ciência da Computação no Instituto Federal Goiano - Campus Iporá.
 
 ![snake gif](https://github.com/Toddynn1762/Toddynn1762/blob/output/github-contribution-grid-snake.gif)
 
 
-<!--
-**Toddynn1762/Toddynn1762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Atualmente estou estudando as seguintes tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> <img 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="40" height="40"/> <img 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/> <img 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="40" height="40"/> <img 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40"/>
+          
+          
