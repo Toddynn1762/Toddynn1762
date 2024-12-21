@@ -1,4 +1,4 @@
-## Olá 👋
+# Olá 👋
 
 Meu nome é João Victor, atualmente estou cursando Bacharelado em Ciência da Computação no Instituto Federal Goiano - Campus Iporá.
 
