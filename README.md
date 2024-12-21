@@ -14,5 +14,10 @@ Meu nome é João Victor, atualmente estou cursando Bacharelado em Ciência da C
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="40" height="40"/> <img 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40"/> <img 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" height="40"/>
-          
+
+## Redes Sociais:
+
+<div>
+<a href="https://instagram.com/joao_vict62" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+</div>
           
