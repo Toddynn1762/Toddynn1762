@@ -24,6 +24,6 @@ Meu nome é João Victor, atualmente estou cursando o 7° Período de Bacharelad
 ## Estatísticas
 <div>
 <a href="https://github.com/Toddynn1762">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toddynn1762&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Toddynn1762&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toddynn1762&layout=compact&langs_count=7&theme=dracula"/> <img 
+     height="180em" src="https://github-readme-stats.vercel.app/api?username=Toddynn1762&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
