@@ -1,6 +1,6 @@
 # Olá 👋
 
-Meu nome é João Victor, atualmente estou cursando Bacharelado em Ciência da Computação no Instituto Federal Goiano - Campus Iporá.
+Meu nome é João Victor, atualmente estou cursando o 7° Período de Bacharelado em Ciência da Computação no Instituto Federal Goiano - Campus Iporá.
 
 ![snake gif](https://github.com/Toddynn1762/Toddynn1762/blob/output/github-contribution-grid-snake.gif)
 
