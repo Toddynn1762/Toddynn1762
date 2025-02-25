@@ -2,6 +2,8 @@
 
 Meu nome é João Victor, atualmente estou cursando o 7° Período de Bacharelado em Ciência da Computação no Instituto Federal Goiano - Campus Iporá.
 
+My name is João Victor, I am currently studying the 7th Period of the Bachelor's Degree in Computer Science at the Instituto Federal Goiano - Campus Iporá
+
 ![snake gif](https://github.com/Toddynn1762/Toddynn1762/blob/output/github-contribution-grid-snake.gif)
 
 
